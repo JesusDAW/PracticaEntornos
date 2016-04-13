@@ -1,6 +1,6 @@
 
 package ajedrezentornos;
-
+//trabajo en equipo asi si XD
 import java.util.Scanner;
 public class AjedrezEntornos {
     
